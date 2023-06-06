@@ -1,0 +1,129 @@
+body {
+    background-color: rgb(71, 84, 84);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aquamarine;
+}
+
+#title{
+    display: flex;
+    justify-content: center;  
+    padding: 20px;
+    margin: 20px;
+    font-weight: bold;
+    font-size:30px ;
+    color: aquamarine;
+}
+td{
+    padding: 30px;
+}
+#values{
+    margin-top: 10px;
+    margin-left: 350px;
+}
+#budgedView{
+    font-weight: bold;
+    font-size:40px ;
+    color: aquamarine;
+    
+}
+#Expenses{
+    margin-left: 140px;
+    padding: 30px;
+    font-weight: bold;
+    font-size:40px ;
+    color: aquamarine;
+}
+#Total{
+    margin-left: 160px;
+    font-weight: bold;
+    font-size:40px ;
+    color: aquamarine;
+
+}
+#first{
+    margin: 35px;
+}
+#Amount{
+    font-size: 15px;
+    color:white;
+    background-color:rgb(96, 111, 111);
+    padding-left: 30px;
+    margin-top: 20px;
+}
+.label1{
+    font-size: 25px;
+    margin: 20px; 
+    padding-left: 10px;
+}
+.button1{
+    margin-top: 50px;
+    margin-left:150px;
+    font-size: 20px;
+    border-radius: 30px;
+    background-color:rgb(96, 111, 111) ;
+    color: aquamarine;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+
+}
+.button2{
+    margin-top: 40px;
+    margin-left: 135px;
+    padding: 0%;
+    font-size: 20px;
+    border-radius: 30px;
+    background-color:rgb(96, 111, 111) ;
+    color: aquamarine;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    border: none;
+    
+}
+#add{
+    margin-top:70px;
+    font-size: 50px;
+    margin-left: 70px;
+}
+#expenseView{
+    margin: 40px;
+}
+#expenseDescription{
+    font-size: 15px;
+    color:white;
+    background-color:rgb(96, 111, 111);
+    padding-left: 30px;
+    margin-top: 20px;
+
+}
+#expenseAmount{
+    font-size: 15px;
+    color:white;
+    background-color:rgb(96, 111, 111);
+    padding-left: 30px;
+    margin-top: 20px;
+
+}
+#expenseCategory{
+    font-size: 15px;
+    color:white;
+    background-color:rgb(96, 111, 111);
+    padding-left: 30px;
+    margin-top: 20px;
+}
+#expenseDate{
+    font-size: 15px;
+    color:white;
+    background-color:rgb(96, 111, 111);
+    padding-left: 30px;
+    margin-top: 20px;
+}
+#expenseSummary{
+    margin-left: 70px;
+}
+#list{
+    font-size: 50px;
+}
